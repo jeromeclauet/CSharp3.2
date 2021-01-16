@@ -1,0 +1,13 @@
+C:\Users\Jérôme\Documents\www\C#\P3\Boucles\Exercice 3\bin\Debug\netcoreapp3.1\Exercice 3.exe
+C:\Users\Jérôme\Documents\www\C#\P3\Boucles\Exercice 3\bin\Debug\netcoreapp3.1\Exercice 3.deps.json
+C:\Users\Jérôme\Documents\www\C#\P3\Boucles\Exercice 3\bin\Debug\netcoreapp3.1\Exercice 3.runtimeconfig.json
+C:\Users\Jérôme\Documents\www\C#\P3\Boucles\Exercice 3\bin\Debug\netcoreapp3.1\Exercice 3.runtimeconfig.dev.json
+C:\Users\Jérôme\Documents\www\C#\P3\Boucles\Exercice 3\bin\Debug\netcoreapp3.1\Exercice 3.dll
+C:\Users\Jérôme\Documents\www\C#\P3\Boucles\Exercice 3\bin\Debug\netcoreapp3.1\Exercice 3.pdb
+C:\Users\Jérôme\Documents\www\C#\P3\Boucles\Exercice 3\obj\Debug\netcoreapp3.1\Exercice 3.csprojAssemblyReference.cache
+C:\Users\Jérôme\Documents\www\C#\P3\Boucles\Exercice 3\obj\Debug\netcoreapp3.1\Exercice 3.AssemblyInfoInputs.cache
+C:\Users\Jérôme\Documents\www\C#\P3\Boucles\Exercice 3\obj\Debug\netcoreapp3.1\Exercice 3.AssemblyInfo.cs
+C:\Users\Jérôme\Documents\www\C#\P3\Boucles\Exercice 3\obj\Debug\netcoreapp3.1\Exercice 3.csproj.CoreCompileInputs.cache
+C:\Users\Jérôme\Documents\www\C#\P3\Boucles\Exercice 3\obj\Debug\netcoreapp3.1\Exercice 3.dll
+C:\Users\Jérôme\Documents\www\C#\P3\Boucles\Exercice 3\obj\Debug\netcoreapp3.1\Exercice 3.pdb
+C:\Users\Jérôme\Documents\www\C#\P3\Boucles\Exercice 3\obj\Debug\netcoreapp3.1\Exercice 3.genruntimeconfig.cache
